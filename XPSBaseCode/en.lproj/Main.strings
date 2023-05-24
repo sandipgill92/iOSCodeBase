@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "3FW-ol-eat"; */
+"3FW-ol-eat.text" = "Email";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "63S-eI-Ams"; */
+"63S-eI-Ams.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "6VJ-dh-pqU"; */
+"6VJ-dh-pqU.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "Tagline"; ObjectID = "Rg0-vz-h9X"; */
+"Rg0-vz-h9X.text" = "Tagline";
+
+/* Class = "UITextField"; placeholder = "example@gmail.com"; ObjectID = "f6S-IG-nuX"; */
+"f6S-IG-nuX.placeholder" = "example@gmail.com";
+
+/* Class = "UITextField"; placeholder = "********"; ObjectID = "yfl-ms-Ab3"; */
+"yfl-ms-Ab3.placeholder" = "••••••••";
